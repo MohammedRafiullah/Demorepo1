@@ -27,6 +27,13 @@ public class ConrolStatement {
 			System.out.println("cse student in anna university");
 			System.out.println("cse student in anna university");
 			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
 		}
 		else {
 			System.out.println("other student");
