@@ -25,6 +25,11 @@ public class ConrolStatement {
 		if(clgId==8100&deptId==142) {
 			//8100==8100 is true, 141==142 is false
 			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
+			System.out.println("cse student in anna university");
 		}
 		else {
 			System.out.println("other student");
